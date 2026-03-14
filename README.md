@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ezra
 
-<!--
-**ezraiao/ezraiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Ezra, a student at Brigham Young University-Idaho interested in cybersecurity. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning cybersecurity, more inclined to the defence. 
+- My goals are to be the best cybersecurity analyst in the world. I love to play defend team in Rainbow six, that's why I would love to be in the blue team hahaha.
+- Ask me about anything, my interest or anything
+
+## Technologies and Tools
+
+- Proficient in: Python, Kali, Ubuntu, SQL
+- Skills: Cybersecurity fundamentals, Data
+analysis, Secure coding, Log analysis, Network
+security, Team collaboration, Critical thinking.
+## Let's Connect!
+
+- Here is my www.linkedin.com/in/ezra-iao-3994b4382 profile
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
