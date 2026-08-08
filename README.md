@@ -12,7 +12,7 @@ I'm Ezra, a student at Brigham Young University-Idaho interested in cybersecurit
 
 ## Technologies and Tools
 
-- Proficient in: Python, Kali, Ubuntu, SQL
+- Proficient in: Python, Kali, Ubuntu, SQL, Security Onion, AI
 - Skills: Cybersecurity fundamentals, Data
 analysis, Secure coding, Log analysis, Network
 security, Team collaboration, Critical thinking.
